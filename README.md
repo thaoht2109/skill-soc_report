@@ -22,7 +22,6 @@ Custom agent + skill + instruction cho **GitHub Copilot** (VS Code). Tự độn
 3. **Gõ prompt**:
 
 # Lưu ý: Nên covert file dữ liệu sang định dạng .md để tối ưu trước khi phân tích
-
 ```
 @Security Report Agent phân tích file.csv
 @Security Report Agent tạo report từ data.csv lưu vào output/
